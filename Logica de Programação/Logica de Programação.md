@@ -1,0 +1,1 @@
+O professor ensinou os conceitos básicos de lógica de programação e iniciou Portugol
